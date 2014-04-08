@@ -1,0 +1,25 @@
+---
+title: "How to rejuvenate an old PC with Puppy Linux"
+layout: "post"
+permalink: "/2009/08/how-to-rejuvenate-old-pc-with-puppy.html"
+uuid: "1600358651706542771"
+guid: "tag:blogger.com,1999:blog-25132979.post-1600358651706542771"
+date: "2009-08-20 07:20:00"
+updated: "2009-08-21 06:39:29"
+description: 
+blogger:
+    siteid: "25132979"
+    postid: "1600358651706542771"
+    comments: "0"
+categories: 
+author: 
+    name: "Arvi"
+    url: "http://www.blogger.com/profile/06732945353153744126?rel=author"
+    image: "http://photos1.blogger.com/blogger/7527/293/400/arvi-charcoalJPG.jpg"
+---
+
+{% raw %}
+<div class="css-full-post-content js-full-post-content">
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.puppylinux.com/puppylogo96.png"><blockquote></blockquote><blockquote></blockquote><blockquote></blockquote><blockquote></blockquote><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 96px; height: 96px;" src="http://www.puppylinux.com/puppylogo96.png" border="0" alt="" /></a><br />Got an old laptop or PC with 256MB or less RAM? <a href="http://www.puppylinux.org/">Puppy Linux</a> can help rejuvenate it for you.<div><br /></div><div>Having said that, you'll need to be prepared to veer off the beaten path and work through challenges that come up.<br /><br />Here's a few ideas to think about for your old comp:</div><div><br /><blockquote><ul><li>Set up a headless torrent client</li><li>Lite browser version for guests and visitors</li><li>Home media center streaming server</li><li>Private home VPN</li></ul></blockquote><div><br />I picked up an old 1.13 Ghz IBM R31 that I purchased in 2002 and set up Puppy Linux. The four main things I had to do in order to get things working were:</div><div><br /><ul><li><b>Partition</b>: Split my 80GB partition to offer 1GB for Puppy, 256MB of swap space, and the rest for a shared FAT partition. Yes, you got that right - just 1GB. Puppy Linux is 100MB in size. I kept the rest of the partition FAT in case I decide to install Win7 in the future or share files with my Macs. With Puppy, you also have the option of booting off a USB dongle. Unfortunately, my R31 BIOS didn't support it and I had to install off a CD.</li><li><b>Kernel boot params</b>: On my IBM R31, I had to add i8042.nomux=1 in the kernel boot params to work around a Thinkpad mouse bug. Without this, the pointer ends up being all jumpy.</li><li><b>Wireless</b>: Unless you are lucky enough to have a card or dongle on <a href="http://www.puppylinux.org/wiki/hardware/general/wirelessworking">this list</a>, you'll need to scrounge around with the <a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">ndiswrapper</a> layer. It took me a while, but I finally have a strong signal from my Airport Extreme.</li><li><b>Apps</b>: The pup may be a little lite for your preferences plain vanilla. I added on Firefox, Transmission, OpenVPN, Java and Skype.  Grab a precompiled Skype binary from <a href="http://www.puppylinux.org/community/blogs/7of9sdad/installing-skype-puppy-linux-412">here</a>.</li></ul><div><br /></div><div>Also look at: <a href="http://www.damnsmalllinux.org/">DSL</a>, <a href="http://www.amahi.org/">Amahi</a>.</div><div><br /></div></div></div>
+</div>
+{% endraw %}

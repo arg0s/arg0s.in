@@ -1,21 +1,22 @@
-title:            Site Title
-description:      Describe your website.
+title:            Arvi's Blog
+description:      A blog about entrepreneurship, startups, tennis, and personal musings.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
-disqus_shortname: 
+#url:              http://www.arg0s.in
+disqus_shortname: arg0s
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Arvi Krishnaswamy
+  avatar:         bio-arvi.jpg
+  bio:            "Entrepreneur and Tech Executive"
+  email:          arvi@alumni.iastate.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        twitortat
-  facebook:
+  facebook:       aravind.krishnaswamy
   github:
   stackoverflow:
-  linkedin:
+  linkedin:        aravindkrishnaswamy
   instagram:
   lastfm:
   tumblr:
@@ -28,17 +29,17 @@ owner:
 
 # Author(s) information
 authors:
-  author1:
+  arvi:
     name:           Arvi Krishnaswamy
-    avatar:         bio-photo.jpg
-    bio:            "Describe your self."
-    email:          your@email.com
+    avatar:         bio-arvi.jpg
+    bio:            "Entrepreneur and Tech Executive"
+    email:          arvi@alumni.iastate.edu
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
     twitter:        twitortat
-    facebook:
-    github:          arg0s
+    facebook:       aravind.krishnaswamy
+    github:
     stackoverflow:
-    linkedin:
+    linkedin:        aravindkrishnaswamy
     instagram:
     lastfm:
     tumblr:
@@ -71,7 +72,7 @@ authors:
 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-35664860-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -79,14 +80,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
   - title: About Arvi
-    url: http://www.arg0s.in
+    url: /about/
+  - title: All Posts
+    url: /posts/
+  - title: About Levitum
+    url: http://www.levitum.in
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -96,7 +95,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:categories/:title.html
 
 kramdown:
   auto_ids: true
@@ -112,5 +111,5 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-include: [".htaccess"]
+include: [".htaccess", "static"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
