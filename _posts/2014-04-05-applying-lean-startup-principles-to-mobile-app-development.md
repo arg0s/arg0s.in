@@ -7,7 +7,7 @@ image:
   feature: banner-lean.jpg
 ---
 
-I attended [DroidSync](http://www.droidsync.in), an event organized in Mumbai by Nitrocid (who also organized NitroDroid in Goa) for app developers and entrepreneurs. I presented a session in the Business Track about applying Lean Startup principles to Mobile App Development.
+I attended [DroidSync](http://www.droidsync.in), an event organized in Mumbai by my friend [Prajyot Mainkar](http://www.twitter.com/prajyotm) of [Androcid](http://www.androcid.com) for app developers and entrepreneurs. I presented a session in the Business Track about applying Lean Startup principles to Mobile App Development.
 
 Read on for a quick abstract, and my slides futher below.
 
@@ -36,3 +36,5 @@ My slides also cover off a few tips to work around common objections to applying
 Got feedback or other ideas about how you've applied lean to your app development? Chime in in the comments below. Or, [Follow me on Twitter](http://twitter.com/twitortat) for more updates and discussions.
 
 My thanks for inputs & ideas that have contributed to these slides go to: [@ashmaurya](http://www.twitter.com/ashmaurya), [@mtrajan](http://twitter.com/mtrajan), my team at [Levitum](http://www.levitum.in) and various members of the [@droidconIN](http://www.twitter.com/droidconIN), [@pncamp](http://twitter.com/pncamp) and [@blrdroid](http://www.twitter.com/blrdroid) communities.
+
+Also a big shout out to the other awesome speakers [Amrit](http://twitter.com/amsanjeev), [Ravi](http://twitter.com/ravivyas84), [Prateek](http://twitter.com/PG1O1), Garima, Boaz, and Santosh. The highlight of the day for me was the time we spent having an open chat with the audience from the stage. And thanks once again for Androcid for pulling off a great event, and wonderful hospitality. They also organized NitroDroid in Goa, and doing a great job broadening and enabling the ecosystem.
