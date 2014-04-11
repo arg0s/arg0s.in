@@ -1,7 +1,7 @@
 ---
-title: What I Learnt From A Failed MVP
-description: Lessons learnt applying Lean Startup principles to a new MVP that failed.
-modified: 2014-04-10
+title: What We Learnt From A Failed MVP
+description: Lessons learnt applying Lean Startup principles to a new MVP that invalidated our original hypothesis.
+modified: 2014-04-11
 layout: post
 comments: true
 image:
@@ -20,7 +20,7 @@ image:
 
 [Rovio tried 51 games before hitting upon Angry Birds](http://www.fastcompany.com/1826976/dirty-little-secret-overnight-successes). We tend to hear a lot more about the chart busting numbers of Angry Birds than the struggles of the previous 51 games. In my opinion, their success was the *journey* of the *52* experiments, and *not* just the final one.
 
-We recently had learnings from an MVP that we put out, and experiments that we ran. In the spirit of openly sharing how I've tried to apply Lean Startup principles to a new venture, I'm going to outline how we went about things, and what I've learnt.
+We at [Levitum](http://www.levitum.com) recently had learnings from an MVP that we put out, and experiments that we ran. In the spirit of openly sharing how I've tried to apply Lean Startup principles to a new venture, I'm going to outline how we went about things, and what I've learnt.
 
 ## Initial Vision
 
@@ -154,7 +154,7 @@ We also spoke to a group of users and collated feedback. So, at this point, we w
 ## What we did well
 
 * Capture our thought process and assumptions, laying out things that had to be true for us to succeed
-* Identied small batches that could be proven (or disproven) with minimum cost
+* Identied small batches that could be proven (or disproven) with minimum cost, rapidly built and iterated through the batches.
 * Stayed honest and objective, tracked metrics and cohorts well.
 
 ## What we could have done better
@@ -163,6 +163,15 @@ We also spoke to a group of users and collated feedback. So, at this point, we w
 * We built more than we should have before we understood the gaps in our understanding of the customer and their behavior.
 * Included more inline surveys early on enough to have better insights.
 
+## Was this a 'failed' MVP?
+
+An MVP is an experiment or a tool to help answer a high risk question. From that perspective, we would have have failed if we had learnt nothing from our experiments. I'd like to think that we succeeded in learning a lot, and that made this MVP successful.
+
+However, one thing I noticed after I moved back to India from the Valley was that we often hesitate to talk about failures, and what we learnt from them. People are much more interested in learning from a success story. However, if you ask me, I'm more interested in the 51 attempts of Rovio than just the one that made it big. It's the failure to learn that's a failure.
+
 ## The Decision
 
 While we still believe in the original vision, and it's possible that persevering and keep this going out there in the wild may yield something, we've decided to put this on hold. Although this is neither a hardcore game or a heavy social game, it requires gaming chops that we don't have. Our competencies lie in mobile + social and we're sticking to those. However, the learnings have been useful, and have helped up develop more structure around how we approach customer development, gain early feedback, and rapidly iterate to test out key assumptions. It's more important that we develop a method that will help us get predictable around how we solve customer problems than getting lucky. I'm sure these will help us as we move on to the next stepping stones.
+
+Are there things that you think we could have done differently? Feedback is welcome.
+{: .notice}
