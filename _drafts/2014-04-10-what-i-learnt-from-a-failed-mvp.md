@@ -3,6 +3,7 @@ title: What I Learnt From A Failed MVP
 description: Lessons learnt applying Lean Startup principles to a new MVP that failed.
 modified: 2014-04-10
 layout: post
+comments: true
 image:
   feature: banner-cross-stones.jpg
 ---
@@ -17,7 +18,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-[Rovio tried 51 games before hitting upon Angry Birds](http://www.fastcompany.com/1826976/dirty-little-secret-overnight-successes). The success was the *journey* of the *52* experiments, and *not* just final one.
+[Rovio tried 51 games before hitting upon Angry Birds](http://www.fastcompany.com/1826976/dirty-little-secret-overnight-successes). We tend to hear a lot more about the chart busting numbers of Angry Birds than the struggles of the previous 51 games. In my opinion, their success was the *journey* of the *52* experiments, and *not* just the final one.
 
 We recently had learnings from an MVP that we put out, and experiments that we ran. In the spirit of openly sharing how I've tried to apply Lean Startup principles to a new venture, I'm going to outline how we went about things, and what I've learnt.
 

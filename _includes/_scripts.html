@@ -38,3 +38,15 @@ function autoResize(id){
 }
 //-->
 </script>
+
+
+<script>
+  (function() {
+    Socialite.load('.social-buttons');
+    $('.post-index-item').one('mouseenter', function()
+    {
+      Socialite.load(this);
+    });
+  })();
+
+</script>

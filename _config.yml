@@ -2,7 +2,7 @@ title:            Arvi's Blog
 description:      A blog about entrepreneurship, startups, tennis, and personal musings.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
-url:              http://www.arg0s.in
+url:              http://arg0s.in
 disqus_shortname: arg0s
 
 # Owner/author information
