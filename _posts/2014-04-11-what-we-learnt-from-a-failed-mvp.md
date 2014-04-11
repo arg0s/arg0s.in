@@ -32,7 +32,7 @@ Here's the initial vision, target audience, and problem statement that we starte
 
 As we thought about this, there were a number of questions.
 
-* Do people care at all about Charades? It turned out that Ellen's charades game was [wildy popular](https://www.youtube.com/watch?v=Bf8RTdWdd44), and there was a lot of buzz around Heads Up Charades, but that was not indicative about whether people would want to play online.
+* Do people care at all about Charades? It turned out that Ellen's charades game was [wildly popular](https://www.youtube.com/watch?v=Bf8RTdWdd44), and there was a lot of buzz around Heads Up Charades, but that was not indicative about whether people would want to play online.
 * Would charades be engaging enough that people would want to play regularly?
 * If we set up a real-time game to mimic the mechanics of the game we are used to, that would require friends being present at the same time, which may be hard to schedule.
 * If scheduling was hard, would people be comfortable playing with strangers in games rooms like poker online.
@@ -75,7 +75,7 @@ Next, we attempted to structure experiments around the major leap of faith assum
 
 ## Hypothesis 2
 
-> Of users in the target demographic who are shown mockuped up flows of the game concept, at least 70% of them would be very interested in the game.
+> Of users in the target demographic who are shown mocked up up flows of the game concept, at least 70% of them would be very interested in the game.
 
 | AUDIENCE       |  Young Adults in India  |
 | ACQUISITION    |  Friends Network                             |
@@ -133,28 +133,28 @@ Next, we attempted to structure experiments around the major leap of faith assum
 |                | 3. Provide an explanation about what the game is about.|
 |                | 4. Enable the user to turn video on and start the game. |
 |                | 5. Track analytics.|
-|                | 6. Added a Qualroo style prompt to find out why they dont turn video on.|
-| RESULT         | 50% of the users visited the page, but < 10% turned video on. 5% answered the prompt indicating they didnt want to turn video on, would try later, or werent sure how to turn it on.|
-| LEARNING       | Given the anonymity of these communities, it was hard to reach out directly and get feedback. The sampling size of the respondees to the prompt was too small to infer enough.  |
+|                | 6. Added a Qualroo style prompt to find out why they don't turn video on.|
+| RESULT         | 50% of the users visited the page, but < 10% turned video on. 5% answered the prompt indicating they didn't want to turn video on, would try later, or weren't sure how to turn it on.|
+| LEARNING       | Given the anonymity of these communities, it was hard to reach out directly and get feedback. The sampling size of the responders to the prompt was too small to infer enough.  |
 
 
 
-## The Condundrum
+## The Conundrum
 
 We also spoke to a group of users and collated feedback. So, at this point, we were faced with this conundrum from our learnings.
 
 1. There's a certain level of interest in charades, but it's mostly seen as a family & friends game.
-2. For those who see their friends & family often enough, playing charades online wasnt appealing. (Playing live with them during Thanksgiving or Christmas was still appealing).
+2. For those who see their friends & family often enough, playing charades online wasn't appealing. (Playing live with them during Thanksgiving or Christmas was still appealing).
 2. The average users isn't comfortable playing with random strangers online.
 3. Even communities that are comfortable dealing with nudity online, and have no reservations didn't find the idea appealing.
 4. Improvements in the visual design and explanatory information offered did not increase conversions.
-5. A game like this requires a fairly engaged community, and it didnt appear that charades would sustain that level of engagement.
+5. A game like this requires a fairly engaged community, and it didn't appear that charades would sustain that level of engagement.
 6. There's a community of people in the subcontinent that loves dumb charades, but the version that's played is fairly technical and geeky, and would not scale out.
 
 ## What we did well
 
 * Capture our thought process and assumptions, laying out things that had to be true for us to succeed
-* Identied small batches that could be proven (or disproven) with minimum cost, rapidly built and iterated through the batches.
+* Identified small batches that could be proven (or disproven) with minimum cost, rapidly built and iterated through the batches.
 * Stayed honest and objective, tracked metrics and cohorts well.
 
 ## What we could have done better
