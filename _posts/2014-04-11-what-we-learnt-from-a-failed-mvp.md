@@ -173,5 +173,6 @@ However, one thing I noticed after I moved back to India from the Valley was tha
 
 While we still believe in the original vision, and it's possible that persevering and keep this going out there in the wild may yield something, we've decided to put this on hold. Although this is neither a hardcore game or a heavy social game, it requires gaming chops that we don't have. Our competencies lie in mobile + social and we're sticking to those. However, the learnings have been useful, and have helped up develop more structure around how we approach customer development, gain early feedback, and rapidly iterate to test out key assumptions. It's more important that we develop a method that will help us get predictable around how we solve customer problems than getting lucky. I'm sure these will help us as we move on to the next stepping stones.
 
-Are there things that you think we could have done differently? Feedback is welcome.
+Are there things that you think we could have done differently? Feedback is welcome. <br>
+Update: Someone posted this article on HN, and it seems to have made it to the [first page](https://news.ycombinator.com/item?id=7578518).
 {: .notice}
