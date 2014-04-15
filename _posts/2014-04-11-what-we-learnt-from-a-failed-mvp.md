@@ -1,7 +1,7 @@
 ---
 title: What We Learnt From A Failed MVP
 description: Lessons learnt applying Lean Startup principles to a new MVP that invalidated our original hypothesis.
-modified: 2014-04-11
+modified: 2014-04-14
 layout: post
 comments: true
 image:
@@ -118,8 +118,8 @@ Next, we attempted to structure experiments around the major leap of faith assum
 |                | 2. Provide an explanation about what the game is about.|
 |                | 3. Enable the user to turn video on and start the game. |
 |                | 4. Track analytics.|
-| RESULT         |  80% of the users visited the page, but < 5% turned video on. |
-| LEARNING       |  100% of the users turned video on, and were excited and ready to engage in the game. They felt they would be very disappointed if they were unable to play. Women in the group, when asked if they would play with people they didn't know online, said they would hesitate. Men in the group unanimously said they would be willing to try.|
+| RESULT         |  100% of the users turned video on, and were excited and ready to engage in the game. They felt they would be very disappointed if they were unable to play. |
+| LEARNING       |  Women in the group, when asked if they would play with people they didn't know online, said they would hesitate. Men in the group unanimously said they would be willing to try.|
 
 ## Hypothesis 5
 
