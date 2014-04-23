@@ -1,9 +1,10 @@
 ---
-title: What We Learnt From A Failed MVP
+title: What We Learnt From A Failed MVP (Lean Startup)
 description: Lessons learnt applying Lean Startup principles to a new MVP that invalidated our original hypothesis.
 modified: 2014-04-14
 layout: post
 comments: true
+tags: [Entrepreurship, lean startup, mobile apps, social media marketing, india, droidcon, amul, musiguru, justshare, mvp, hacker news, lean mantra]
 image:
   feature: banner-cross-stones.jpg
 ---
