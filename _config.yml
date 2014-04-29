@@ -3,6 +3,7 @@ description:      "Entrepreneurship, mobile app ecosystem, lean startup, social 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
 url:              http://arg0s.in
+logo:              http://arg0s.in/images/bio-arvi.jpg
 disqus_shortname: arg0s
 
 # Owner/author information
