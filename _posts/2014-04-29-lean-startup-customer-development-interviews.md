@@ -15,9 +15,9 @@ tags: [Entrepreurship, lean startup, customer development, interviews, validated
 </div>
 </section><!-- /#table-of-contents -->
 
+In a [recent post](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html), I covered off learnings from an MVP we built out for charades online[^1]. The post was quite popular, and made it to page one of Hacker News and Reddit, bringing in over 25,000 hits in a week. I learnt tons from comments and feedback from people, and also got to know a number of amazing people around the world like [@skmurphy](http://twitter.com/skmurphy), [@trikro](http://twitter.com/trikro) and [@spikelabs](http://twitter.com/spikelabs) who are applying lean to their ventures. Closer to home, I had great conversations with [@mtrajan](http://twitter.com/mtrajan) and others that are a part of the local lean startup circle.
 
-
-In a [recent post](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html), I covered off learnings from an MVP we built out for charades online[^1].
+I realized that there were certain things that came naturally to me, but are areas which some people tend to get stuck at. I'm going to expand on the [original post](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html) to dive into a few of them in the interest of sharing and continuing to [learn from each other](http://steveblank.com/2011/09/15/the-pay-it-forward-culture/).
 
 There was one question a number of people asked me via [Hacker News](https://news.ycombinator.com/item?id=7578518), LinkedIn and Disqus.
 
@@ -27,7 +27,11 @@ There's multiple dimensions to that question, and I'll attempt to answer only pa
 
 > What are some of the typical questions you ask during a customer interview?
 
-I've put together a list of common questions that I've been asking people I interview. Note that these questions are mostly targeted towards an enterprise/SaaS B2B or B2B2C type of discovery. Also, I'm not laying out a complete script for you to follow - these are just the *important* questions that you may want to cover off.
+I've put together a list of common questions that I've been asking people I interview. Note that
+
+* These questions are mostly targeted towards an enterprise/SaaS B2B or B2B2C type of discovery.
+* Also, I'm not laying out a complete script for you to follow - these are just the *important* questions that you may want to cover off.
+* I'm not discussing how you may acquire these users, although I'll share some tips further down in the article.
 
 ![/images/niche.png](/images/niche.png)
 
@@ -74,7 +78,7 @@ In case a problem set that you are particularly interested in didn't come up in 
 
 One example where this approach may be useful is if your product's unique proposition is based on the experience it offers. These can be hard to approach from a problem/solution fit Q&A if the user is unable to visualize how things could be different.
 
-For instance, if your idea was a Flipboard style app, it would be hard to explain the unique experience to a Google Reader user. In this case, a mockup (or ever a prototype) may be needed to assist with your interview.
+For instance, if your idea was a Flipboard style app, it would be hard to explain the unique experience to a Google Reader user. In this case, a mockup (or even a working prototype) may be needed to assist with your interview.
 
 * What do you think about this product "insert the value proposition"?
 * Would you be ready to use this immediately?
@@ -96,16 +100,23 @@ One idea that I have but haven't explored yet, is to see if I can get some of th
 # Pitfalls & Tips
 
 * One of the challenges I've faced so far has been that it's not easy when there are certain barriers to reaching your target users. I've made the mistake of talking to what we thought were reasonable approximations (users of the same age group, but in a different part of the world). *They were not representative*.
-	* There's the story of [Jason Cohen](https://twitter.com/asmartbear/) of WPEngine. During their early days, he got onto LinkedIn and wrote a number of bloggers directly. To show that he really valued their time, he offered to pay for their time during the interviews. He spoke to several people until he found 30 that were willing to pay $49/mo for a hosted wordpress service.
-* Also, no amount of secondary research online can compensate since you are ultimately extrapolating based on what you've infered from someone elses high level summary. Don't ever assume you can substitute one for the other - both are valuable in their own ways.
+	* There's the story of [Jason Cohen](https://twitter.com/asmartbear/) of WPEngine. During their early days, Jason got onto LinkedIn and wrote a number of bloggers directly. To show that he really valued their time, he offered to pay for their time during the interviews. He spoke to several people until he found 30 that were willing to pay $49/mo for a hosted wordpress service. If you are comfortable side stepping any personal reservations and reaching out to people, you may find that doors open.
+* Also, no amount of secondary research online can compensate since you are ultimately extrapolating based on what you've infered from someone elses high level summary. Earlier on, I've spent hours looking at well laid out reports aggregating data from sites online since I would hesitate to reach out and talk to users. Don't ever assume you can substitute one for the other - *both are valuable in their own ways*.
 * There are periods when you may feel like you are learning nothing from the conversations you are having. Persist, and take time later to go back and listen to your recordings or review your notes. *The dots will start to line up*.
+
+## Using Turk
+
+So, I was asked recently if we'd considered using Amazon's [Mechanical Turk](https://www.mturk.com/mturk/welcome) for B2C interviews. Well, we hadn't. One part of the challenge was that I don't think my thought process on the interview structure had matured enough to whittle it down to a list I could easily pass on to someone to follow. The other part to be honest was that I felt that I'd want to probe more to really explore and discover, and that would be hard to pass on via Turk. In many ways, this was so core to my understanding of the users that it wouldnt be something I would outsource away. I suspect that in the future, I might use Turk *after* I've spoken to a sizeable sampling of people as a means of validating that my initial sampling size wasnt too small.
 
 ## Disruption
 
-If you're attempting to do something truly disruptive, it's quite likely that most people arent going to be able to understand what your vision is. It's also quite likely that you may not be able to fully explain it either.
+There's one other question I've gotten.
 
-In that case, I'm not totally sure this customer development approach may help you with broader questions that you seek answers too. But then I also hope that you've got enough VC money to help you chase down a problem which isnt totally straightforward.
+> What if I have a great disruptive idea, but it's not something users may be able to imagine at this point?
 
+IMHO, if you're attempting to do something truly disruptive, it's quite likely that most people arent going to be able to understand what your vision is. It's also quite likely that you may not be able to fully explain it either.
+
+In that case, I'm not totally sure this customer development approach may help you with broader questions that you seek answers too. But then I also hope that you've got enough VC money to help you chase down a problem which isnt totally straightforward - you're likely looking at a fairly longer term play.
 
 We're still learning and would love to hear how you go about this. What are the common questions you ask? Feel free to share your tips in the comments below, or send me a message [@twitortat](http://twitter.com/twitortat).
 {: .notice}

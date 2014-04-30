@@ -85,6 +85,8 @@ links:
     url: /about/
   - title: All Posts
     url: /posts/
+  - title: Ask Me Anything
+    url: /ask_me_anything/
   - title: About Levitum
     url: http://www.levitum.in
     external: true
