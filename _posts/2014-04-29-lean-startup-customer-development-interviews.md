@@ -4,6 +4,8 @@ description: Questions that you absolutely have to ask.
 layout: post
 comments: true
 tags: [Entrepreurship, lean startup, customer development, interviews, validated learning, mobile apps, social media marketing, india, droidcon, amul, musiguru, justshare, mvp, hacker news, lean mantra]
+image:
+      feature: banner-lean.jpg
 ---
 <section id="table-of-contents" class="toc">
 	<header>
