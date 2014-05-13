@@ -73,6 +73,20 @@ And the songs of every poet past and forever.
 
 </pre>
 
+### Gregory Peck reads Unending Love
+
+<figure>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/DL_yVhwxCSY?hd=1&rel=0&autohide=1&showinfo=0" frameborder="0"> </iframe>
+<figcaption>After Audrey's death, Gregory Peck reads out her favorite poems.</figcaption>
+</figure>
+
+### Audrey the Humanitarian
+
+> "As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others."
+> - Audrey Hepburn
+
+![images/audrey-2hands.jpg](images/audrey-2hands.jpg)
+
 ### Ma Belle
 
 On a more personal note, I'll always remember this day since it's also my [dog](/about), my constant companion, Ma Belle's birthday. She turns six today! And in so many ways, she is Hepburn-eque, with all the grace, poise, and regal bearing that that Audrey was much loved for.

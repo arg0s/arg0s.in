@@ -1,6 +1,6 @@
 ---
 title: What We Learnt From A Failed MVP (Lean Startup)
-description: Lessons learnt applying Lean Startup principles to a new MVP that invalidated our original hypothesis.
+description: Lessons learnt applying Lean Startup principles to a new MVP that invalidated our original hypothesis. This post made it to page one of Hacker News, and is part of an ongoing series.
 modified: 2014-04-14
 layout: post
 comments: true
@@ -18,6 +18,11 @@ image:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
+
+**UPDATE**<br>
+Read the follow on post on [lean startup customer development interview questions](http://arg0s.in/lean-startup-customer-development-interviews.html), that's part of an ongoing series on this blog.
+{: .notice}
+<br>
 
 [Rovio tried 51 games before hitting upon Angry Birds](http://www.fastcompany.com/1826976/dirty-little-secret-overnight-successes). We tend to hear a lot more about the chart busting numbers of Angry Birds than the struggles of the previous 51 games. In my opinion, their success was the *journey* of the *52* experiments, and *not* just the final one.
 
@@ -174,6 +179,9 @@ However, one thing I noticed after I moved back to India from the Valley was tha
 
 While we still believe in the original vision, and it's possible that persevering and keep this going out there in the wild may yield something, we've decided to put this on hold. Although this is neither a hardcore game or a heavy social game, it requires gaming chops that we don't have. Our competencies lie in mobile + social and we're sticking to those. However, the learnings have been useful, and have helped up develop more structure around how we approach customer development, gain early feedback, and rapidly iterate to test out key assumptions. It's more important that we develop a method that will help us get predictable around how we solve customer problems than getting lucky. I'm sure these will help us as we move on to the next stepping stones.
 
-Are there things that you think we could have done differently? Feedback is welcome. <br>
-Update: Someone posted this article on HN, and it seems to have made it to the [first page](https://news.ycombinator.com/item?id=7578518).
+**FEEDBACK**<br>
+Are there things that you think we could have done differently? Chime in via the comments. This article made it to the first page on [Hacker News](https://news.ycombinator.com/item?id=7578518).
+<br><br>
+**UPDATE**<br>
+Also, you may want to read the follow on post on [lean startup customer development interview questions](http://arg0s.in/lean-startup-customer-development-interviews.html).
 {: .notice}

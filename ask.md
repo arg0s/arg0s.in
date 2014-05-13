@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ask_me_anything/
+permalink: /ask-me-anything/
 title: Ask Me Anything
 ---
 

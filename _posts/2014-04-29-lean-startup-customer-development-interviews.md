@@ -17,7 +17,13 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-In a [recent post](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html), I covered off learnings from an MVP we built out for charades online[^1]. The post was quite popular, and made it to page one of Hacker News and Reddit, bringing in over 25,000 hits in a week. I learnt tons from comments and feedback from people, and also got to know a number of amazing people around the world like [@skmurphy](http://twitter.com/skmurphy), [@trikro](http://twitter.com/trikro) and [@spikelabs](http://twitter.com/spikelabs) who are applying lean to their ventures. Closer to home, I had great conversations with [@mtrajan](http://twitter.com/mtrajan) and others that are a part of the local lean startup circle.
+**UPDATE**<br>
+Read the follow on post on [how we're improving how we run our meetings effectively at our startup](http://arg0s.in/running-efficient-meetings-at-your-startup.html), that's part of an ongoing series on this blog.
+{: .notice}
+<br>
+
+
+In a [recent post](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html), I covered off learnings from an MVP we built out for charades online[^1]. The post was quite popular, and made it to page one of Hacker News and Reddit, bringing in over 25,000 hits in a week. I learnt tons from comments and feedback from people, and also got to know a number of amazing people around the world like [@skmurphy](http://twitter.com/skmurphy), [@trikro](http://twitter.com/trikro) and [@spikelabs](http://twitter.com/spikelab) who are applying lean to their ventures. Closer to home, I had great conversations with [@mtrajan](http://twitter.com/mtrajan) and others that are a part of the local lean startup circle.
 
 I realized that there were certain things that came naturally to me, but are areas which some people tend to get stuck at. I'm going to expand on the [original post](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html) to dive into a few of them in the interest of sharing and continuing to [learn from each other](http://steveblank.com/2011/09/15/the-pay-it-forward-culture/).
 
@@ -128,3 +134,7 @@ We're still learning and would love to hear how you go about this. What are the 
 [^3]: [Perfecting Your Personas](http://www.cooper.com/journal/2001/08/perfecting_your_personas.html)
 [^4]: [The 5 Whys](http://en.wikipedia.org/wiki/5_Whys)
 [^5]: [The Customer Development Process](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2058)
+
+**UPDATE**<br>
+Also, you may want to read the follow on post on [how we're improving how we run our meetings effectively at our startup](http://arg0s.in/running-efficient-meetings-at-your-startup.html).
+{: .notice}
