@@ -60,17 +60,17 @@ It's also important to decide upon what the key purposes[^2] your meetings are f
 
 Invite less people. Or at least as few people as you really need to.
 
-The honest truth about this is, if you've got people who sit through your meetings *without* offering any new perspective or ideas, their attendance was likely optional in the first place.
+The honest truth about this is, we invite too many people all the time. And we attend several meetings where don't add much value. If you've got people who sit through your meetings *without* offering any new perspective or ideas, their attendance was likely optional in the first place.
 
 > **If you've got people who sit through your meetings *without* offering any new perspective or ideas, their attendance was likely optional in the first place.**
 
-I don't doubt that they may have required the context and thought process behind the discussion, but that may have been better served by providing them a separate 10 minute summary instead of having them sit through an hour long meeting. And this is not about who is smart or who is not - everyone's got a role to play and a job to get done at the end of the day.
+I don't doubt that they may have required the context and thought process behind the discussion. But, that may have been better served by providing them a separate 10 minute summary instead of having them sit through an hour long meeting. And this is not about who is smart or who is not - everyone's got a role to play and a job to get done at the end of the day.
 
 ### Use the best tools
 
 ![images/slack.png](images/slack.png)
 
-In the context of meetings, it's important to also cover off collaboration tools. I've written earlier about [collaboration tools every startup should consider](http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html)[^3], but I'll particularly call out some of the newer ones that are arrived since.
+In the context of meetings, it's important to also cover off collaboration tools. I've written about [collaboration tools every startup should consider](http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html)[^3], but I'll  call out some of the newer ones that are arrived since then.
 
 While you may be able to get by with with Skype or other similar general consumer chat apps, most startups I know are using either Campfire, Hipchat or Slack. In our case, we've made Slack the primary. I've literally gone through weeks without having had to have exchanged emails with my colleagues.
 
@@ -102,7 +102,7 @@ We're trying out a new meeting structure for the week. Every day, the meetings s
 * Discuss how last week went (brief)
 * Discuss plan for the week
 
-The objective of this meeting is to lay out the plan for the week ahead. We've been using [LeanKit](http://www.leankit.com) extensively, and use it to track everything. Ideally, we try to get LeanKit up to date coming in to the meeting so that the rough plan is in place and we need to mostly sync up to ensure we have a shared context.
+The objective of this meeting is to lay out the plan for the week ahead. We've been using [LeanKit](http://www.leankit.com) extensively, and use it to track everything. We try to get LeanKit up to date coming in to the meeting so that the rough plan is in place and we need to sync up just to ensure we have a shared context.
 
 ## Tuesday - The Compass
 
@@ -111,7 +111,7 @@ The objective of this meeting is to lay out the plan for the week ahead. We've b
 
 * Are we headed in the right direction?
 
-This is a slightly broader discussion about whether we are on track towards the original objective. While we could have considered moving this to a fortnightly or monthly discussion, it's important enough since we're learning a lot very rapidly. This gives us a weekly checkpoint to consider whether we need to pivot based on our learnings, or whether we are on course.
+This is a slightly broader discussion about whether we are on track towards the original goal. While we could have considered moving this to a fortnightly or monthly discussion, it's important enough since we're learning a lot rapidly. This gives us a weekly checkpoint to consider whether we need to pivot based on our learnings, or whether we are on course.
 
 ## Wednesday - The Caliper
 
@@ -121,7 +121,7 @@ This is a slightly broader discussion about whether we are on track towards the 
 * What are things we could be doing better
 * Are there things we aren't doing that we should be?
 
-We're focused on just 2-3 metrics at this point, and they are around acquisition, activation, and retention. In certain areas such as customer development, we currently just track the number of conversations we've had.
+We're focused on just 2-3 metrics at this point. They are around acquisition, activation, and retention. In certain areas such as customer development, we currently just track the number of conversations we've had.
 
 ## Thursday - The Knot
 
@@ -129,7 +129,13 @@ We're focused on just 2-3 metrics at this point, and they are around acquisition
 
 * Learn a new thing from each other
 
-One of the things that has always amazed me about the [Levitum](http://www.levitum.com) is the amount of talent and knowledge everyone has on a wide range of subjects. Often enough, the day to day routine of our work doesn't let us explore this as much as we'd like. And what better way to bring a team together than just share your knowledge and passion with each other. We're hoping to cover off a wide range of topics - technology, business, social media, sports, photography, music and more. The goal of these sessions is to keep things informal, and not require a lot of prep. In the interest of sharing this with everyone else who may be interested, and doesn't mind ad-hoc learning without a set agenda or formal structure, we'll open this out as a Hangout on-air.
+One of the things that has always amazed me about the [Levitum](http://www.levitum.com) team is the amount of talent and knowledge everyone has on a wide range of subjects. Often enough, the day to day routine of our work doesn't let us explore this as much as we'd like. And what better way to bring a team together than just share your knowledge and passion with each other.
+
+> **And what better way to bring a team together than just share your knowledge and passion with each other.**
+
+We're hoping to cover off a wide range of topics - technology, business, social media, sports, photography, music and more. The goal of these sessions is to keep things informal, and not need a lot of prep.
+
+In the interest of sharing this with everyone else who are interested, we plan open this out to the public. So, if you don't mind ad-hoc learning without a set agenda or formal structure, join us on our weekly Knot Hangout on-air*.
 
 ## Friday - The Truth
 
