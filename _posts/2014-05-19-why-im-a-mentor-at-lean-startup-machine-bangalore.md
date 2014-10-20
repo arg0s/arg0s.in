@@ -21,8 +21,10 @@ share:
 </section><!-- /#table-of-contents -->
 
 
-Lean Startup Machine is coming to Bangalore, India. LSM has held 150 workshops in 50 cities, across six continents, for over 25,000 aspiring entrepreneurs around the world.
+UPDATE: This post has been updated to include my slides further down at the end.
 {: .notice}
+
+Lean Startup Machine is coming to Bangalore, India. LSM has held 150 workshops in 50 cities, across six continents, for over 25,000 aspiring entrepreneurs around the world.
 
 ## The Lean Startup Movement
 
@@ -88,3 +90,11 @@ LSM tickets are $299 in the US, but are priced by the organizers, [Nascomm 10000
 
 ### Say Hello
 If you are attending LSM this month, give me a shout [@twitortat](http://twitortat/twitortat){:target="_blank"} and say hi. It'd be great to get a few conversations started ahead of the event.
+
+
+### Slides
+
+
+<figure>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/35319264?rel=0" width="512" height="421" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen>     </iframe>
+</figure>

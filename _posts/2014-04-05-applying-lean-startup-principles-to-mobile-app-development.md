@@ -28,10 +28,8 @@ What can you do to avoid your app ending up in the same trash can? Well, there's
 My slides also cover off a few tips to work around common objections to applying lean to mobile app dev such as longer dev cycles, the need for a big bang app launch to get higher rankings and wider distribution, and a lack of A/B testing and cohorts analysis tools.
 
 <figure>
-<iframe src="http://arg0s.in/lean-mobile-startup-slides" width="100%" height="400px" id="iframe1" marginheight="0" frameborder="0" onLoad="autoResize('iframe1');"></iframe>
-<figcaption>Click on the navigation buttons or swipe to view the slides.</figcaption>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/35200281" width="100%" height="auto"  id="iframe1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" onLoad="autoResize('iframe1');"></iframe>
 </figure>
-
 
 Got feedback or other ideas about how you've applied lean to your app development? Chime in in the comments below. Or, [Follow me on Twitter](http://twitter.com/twitortat) for more updates and discussions.
 

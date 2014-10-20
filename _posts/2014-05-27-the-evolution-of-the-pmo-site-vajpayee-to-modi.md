@@ -10,7 +10,7 @@ comments:
 share: 
 ---
 
-Here's a colorful look back at the [PMO India site](http://www.pmindia.nic.in/) over the years, with archives from the Wayback Machine.
+Here's a colorful look back at the [PMO India site](http://www.pmindia.nic.in/){:target="_blank"} over the years, with archives from the Wayback Machine.
 
 <figure>
   <a href="images/namo/may-11-2000.png"><img src="images/namo/may-11-2000.png"></a>
@@ -37,13 +37,13 @@ Here's a colorful look back at the [PMO India site](http://www.pmindia.nic.in/) 
 
 <figure>
   <a href="images/namo/jul-16-2011.png"><img src="images/namo/jul-16-2011.png"></a>
-  <figcaption>Vajpayee PMO site in Jul 2011. Six years in office and barely any changes.</figcaption>
+  <figcaption>Manmohan PMO site in Jul 2011. Six years in office and barely any changes.</figcaption>
 </figure>
 
 
 <figure>
   <a href="images/namo/jan-22-2014.png"><img src="images/namo/jan-22-2014.png"></a>
-  <figcaption>Vajpayee PMO site in Jan 2014. A pre-election site rev to make his *cough* speeches more prominent.</figcaption>
+  <figcaption>Manmohan PMO site in Jan 2014. A pre-election site rev to make his *cough* speeches more prominent.</figcaption>
 </figure>
 
 <figure>
@@ -51,3 +51,5 @@ Here's a colorful look back at the [PMO India site](http://www.pmindia.nic.in/) 
   <figcaption>Narendra Modi PMO site in May 2014. A snappy new site that went live at the time of the swearing in. Promises transparency and an channel for direct communication with the people.</figcaption>
 </figure>
 
+**Note**: The PMO [website policy](http://pmindia.nic.in/website_policy.php){:target="_blank"} section indicates that external sites must get their permission before linking in to it. I've sent in a request for permission, but I hope this policy is just a relic of the old website that never did get updated. In case you are from NIC or PMO and would like the link removed, please [contact me](http://arg0s.in/ask-me-anything/).
+{: .notice}
