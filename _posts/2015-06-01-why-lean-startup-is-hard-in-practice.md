@@ -22,7 +22,7 @@ image:
 
 # Why Lean Startup Is Hard In Practice
 
-Over the last couple of years, I've blogged about my [lean startup experiments](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html) (a popular post that made page one of HN). I've spoken at conferences about applying lean to [building mobile apps](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html). And, I was a mentor at [Lean Startup Machine](http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html). Along the way, I've applied lean at a previous startup, collaborated with other entrepreneurs as a part of a DHC lean peer group, and am now running lean experiments at Intuit, a large software company. I've come to the conclusion that while lean startup has been a terrific step forward in how we think about what to build next, there's still many significant challenges involved in practice. This post is an attempt to surface some of the issues so that we can talk about them as a community, and we can learn from each other.
+Over the last couple of years, I've blogged about my [lean startup experiments](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html) (a popular post that made page one of HN). I've spoken at conferences about applying lean to [building mobile apps](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html). And, I was a mentor at [Lean Startup Machine](http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html). Along the way, I've applied lean at my last startup across ideas incubated using an internal Y-Combinator incubation format. I've collaborated with other entrepreneurs as a part of a DHC lean peer group (who reviewed this post). And right now, I'm running lean experiments at Intuit, a large software company. I've come to the conclusion that while lean startup has been a terrific step forward in how we think about what to build next, there's still many significant challenges involved in practice. This post is an attempt to surface some of the issues so that we can talk about them as a community, and we can learn from each other.
 
 Before you read on, you may want to get past some of the [common misconceptions](http://www.startuplessonslearned.com/2010/04/five-myths-about-lean-startup.html) about Lean Startup.
 
@@ -34,7 +34,7 @@ This may seem obvious, but it's worth mentioning. Some folks get into lean start
 Crafting a hypothesis and finding your leap of faith needs discipline. Choices about validation criteria can be subjective and need judgment calls. Decisions about how minimal your MVP needs to be can be challenging with marketplace or mobile apps where experience matters. Is the right experiment broad based generative research or evaluative to find fitment? Are we testing for the market needs or product fitment? That said, there's certainly a wealth of information out there now, and vibrant supportive community that's making this easier.
 
 <figure>
-<img src="http://grasshopperherder.com/wp-content/uploads/2014/09/framework-lean-startup-playbook.png"/>
+<a alt="lean startup" href="http://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/"><img src="http://grasshopperherder.com/wp-content/uploads/2014/09/framework-lean-startup-playbook.png"/></a>
 <figcaption>Source: grasshopperherder.com</figcaption>
 </figure>
 

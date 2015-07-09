@@ -18,7 +18,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 **UPDATE**<br>
-Read the follow on post on [how we're improving how we run our meetings effectively at our startup](http://arg0s.in/running-efficient-meetings-at-your-startup.html), that's part of an ongoing series on this blog.
+Read the follow on post on [Why Lean Startup Is Hard In Practice](http://arg0s.in/why-lean-startup-is-hard-in-practice.html), that's part of an ongoing series on this blog.
 {: .notice}
 <br>
 
