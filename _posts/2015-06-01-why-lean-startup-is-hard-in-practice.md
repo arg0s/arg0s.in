@@ -34,7 +34,7 @@ This may seem obvious, but it's worth mentioning. Some folks get into lean start
 Crafting a hypothesis and finding your leap of faith needs discipline. Choices about validation criteria can be subjective and need judgment calls. Decisions about how minimal your MVP needs to be can be challenging with marketplace or mobile apps where experience matters. Is the right experiment broad based generative research or evaluative to find fitment? Are we testing for the market needs or product fitment? That said, there's certainly a wealth of information out there now, and vibrant supportive community that's making this easier.
 
 <figure>
-<a alt="lean startup" href="http://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/"><img src="http://grasshopperherder.com/wp-content/uploads/2014/09/framework-lean-startup-playbook.png"/></a>
+<a alt="lean startup" href="https://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/"><img src="images/the-lean-startup-playbook.png"/></a>
 <figcaption>Source: grasshopperherder.com</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Put simply, he doesn't think you can experiment your way towards a grand vision.
 > Iteration and machine learning are often excuses for not thinking about the future and short time horizons.
 
 <figure>
-<img src="http://33.media.tumblr.com/tumblr_m4c8ztrzpQ1qbb0b4.png"/>
+<img src="images/thiel.png"/>
 </figure>
 
 Part of his thought process there is that post the 2008 subprime crisis, the world has largely slipped away from the top left quadrant towads the bottom half. 
@@ -91,7 +91,7 @@ Part of his thought process there is that post the 2008 subprime crisis, the wor
 There's also the views of Professor [Saras Sarasvathy](http://www.darden.virginia.edu/faculty-research/directory/saras-d-sarasvathy/), who was a speaker at a fabulous [iSprt](http://www.ispirt.in/) roundtable last year. Saras's paper on "[What makes entrepreneurs entrepreneurial](http://www.effectuation.org/sites/default/files/documents/what-makes-entrepreneurs-entrepreneurial-sarasvathy.pdf)" is now regarded as a seminal piece on [Effectuation](http://en.wikipedia.org/wiki/Effectuation). 
 
 <figure>
-<img src="http://www.effectuation.org/sites/default/files/means-causal-vs-effectual.png">
+<img src="images/means-causal-vs-effectual.png"/>
 <figcaption>Source: effectuation.org</figcaption>
 </figure>
 
