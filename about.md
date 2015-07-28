@@ -11,7 +11,7 @@ comments: true
 I'm Aravind 'Arvi' Krishnaswamy, and I'm an entrepreneur and tech executive. I live in Bangalore, India with my wife [Monami](http://www.projectemm.com) and dog.
 
 <figure>
-<img src="http://graph.facebook.com/aravind.krishnaswamy/picture?height=512&width=512"/>
+<img src="http://graph.facebook.com/603296440/picture?height=512&width=512"/>
 <figcaption>Monami and I in Goa</figcaption>
 </figure>
 

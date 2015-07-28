@@ -120,7 +120,7 @@ Irrespective of whether we are in a startup or a big company, we've come a long 
  
 We are now well beyond thinking of lean startup solely in terms of cost saving, or an excuse to put out half assed MVPs, or to keep pivoting at a whim. If you believe the traction Eric seems to have around his new book [The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries), a significant community has embraced Lean Startup in the context of both entrepreneurship and intrapreneurship across a wide range of industries. While challenges remain, we continue to learn.
 
-> We cannot afford to have our success breed a new pseudoscience around pivots, MVPs, and the like. This was the fate of scientific management, and in the end, I believe, that set back its cause by decades
+> We cannot afford to have our success breed a new pseudoscience around pivots, MVPs, and the like. This was the fate of scientific management, and in the end, I believe, that set back its cause by decades.
 
 If you have suggestions or examples from your experiences, please drop me a note or connect via Twitter @twitortat.
 
